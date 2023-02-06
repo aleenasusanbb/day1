@@ -1,0 +1,44 @@
+
+  h1{
+    color: red;
+}
+a{
+    text-decoration: none;
+    cursor: grab;
+}
+#third{
+    color: blue;
+
+}
+#first{
+    color:yellow;
+
+}
+.one{
+    color: brown;
+}
+.two{
+    color: seagreen;
+}
+.box{
+    color: blueviolet;
+    margin: 20px;
+    padding: 10px 62px;
+    border: 3px ;
+    border-color: black;
+    border-style: dotted  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.site{
+    color: chartreuse;
+    padding: 30px 90px;
+    margin: 20px;
+    border-color: black;
+    border-style:double ;
+    display: flex;
+    justify-content:center;
+    
+}
