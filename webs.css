@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.web{
+    padding-top: 30px; 
+    text-align:center; 
+    background: #625e40; 
+    color: rgb(49, 15, 15);
+}
+.home{
+   margin: 8px;
+   padding-top: 20px;
+
+    font-size:20px;
+      
+}
+.contact{
+
+
+    margin-left: 500px;
+    padding:20px;
+    background-color:rgb(212, 255, 127);
+    font-size: 20px;
+}
+
+   
+
+#para1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#para2{
+   margin-bottom: 0px;
+}
+#image{
+    size: 60px;
+}
+.ct{
+    text-align: center;
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
